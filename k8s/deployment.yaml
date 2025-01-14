@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: gashok13193/end-to-end:22
+        image: dinesh1812/end-to-end:15
         ports:
         - containerPort: 8080
 ---
